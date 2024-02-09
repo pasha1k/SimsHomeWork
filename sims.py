@@ -85,7 +85,7 @@ class Human:
         print(f"{d:=^50}")
         human_i = f"{self.name}'s indexes"
         print(f"{human_i:=^50}")
-        # HW - Потрібно вивести значення атрибутів рівня обєкту класу Human
+        # HW - Потрібно вивести значення атрибутів рівня обєкту класу Human 3
         print("Name:", self.name)
         print("Money:", self.money)
         print("Gladness:", self.gladness)
@@ -94,7 +94,7 @@ class Human:
 
         home_i = "Home indexes"
         print(f"{home_i:=^50}")
-        # HW - Потрібно вивести значення атрибутів рівня обєкту класу House
+        # HW - Потрібно вивести значення атрибутів рівня обєкту класу House 3
         print("Mess:", self.home.mess)
         print("Food:", self.home.food)
         print("Water:", self.home.water)
